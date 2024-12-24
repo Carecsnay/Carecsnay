@@ -47,9 +47,9 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Carecsnay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carecsnay&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carecsnay&layout=compact&theme=dracula)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Carecsnay&theme=dracula)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Carecsnay&theme=dracula)<br>
+![Carecsnay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carecsnay&show_icons=true&theme=dracula)<br> 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carecsnay&layout=compact&theme=dracula) 
 
 **Entre em Contato:**
 
