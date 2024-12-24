@@ -1,7 +1,7 @@
 <h1>&nbsp;Olá, eu sou o Bruno, um estudante Front-End!</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/brunobeniciopi"><img src="https://img.shields.io/badge/-Bruno%20Benicio-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:carecsnay1@gmail.com"><img src="https://img.shields.io/badge/-bruno@exemplo.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:carecsnay1@gmail.com"><img src="https://img.shields.io/badge/carecsnay1@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <h2>👨🏻‍💻 &nbsp;Sobre Mim</h2>
