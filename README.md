@@ -25,6 +25,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 ![FontAwesome](https://img.shields.io/badge/-FontAwesome-333333?style=flat&logo=font-awesome)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 
 <h3>💻 &nbsp;Stack que irei estudar ou já estou estudando:</h3>
