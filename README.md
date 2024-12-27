@@ -32,14 +32,14 @@
 
 <h4>Front-End:</h4>
 
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) (estudando)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 
 <h4>Back-End:</h4>
 
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) (estudando)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express) (estudando)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
