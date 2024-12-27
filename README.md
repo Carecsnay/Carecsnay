@@ -14,7 +14,7 @@
 
 <h2>🛠 &nbsp;Tech Stack</h2>
 
-<h3>💻 &nbsp;Stack que já estou dominando:</h3>
+<h3>☑️ &nbsp;Stack que já estou dominando:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -28,22 +28,49 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 
-<h3>💻 &nbsp;Stack que irei estudar ou já estou estudando:</h3>
+<h3>📔 &nbsp;O que estou estudando no momento:</h3>
 
 <h4>Front-End:</h4>
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 
 <h4>Back-End:</h4>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+
+
+<h3>👨‍💻 &nbsp;Stack que irei estudar em breve:</h3>
+
+<h4>Front-End:</h4>
+
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![OWASP](https://img.shields.io/badge/-OWASP-333333?style=flat&logo=owasp)
+![UI Design](https://img.shields.io/badge/UI_Design-0ABDC5.svg?style=flat&logo=ui-design)
+
+
+<h4>Back-End:</h4>
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Supertest](https://img.shields.io/badge/-Supertest-333333?style=flat&logo=supertest)
+![OWASP](https://img.shields.io/badge/-OWASP-333333?style=flat&logo=owasp)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql)
+
+<h3>Outras mais:</h4>
+
+![TypeORM](https://img.shields.io/badge/TypeORM-E8BD41.svg?style=flat&logo=TypeORM)
+![Clean Code](https://img.shields.io/badge/-Clean%20Code-F7D2C4?style=flat&logo=clean-code)
+![English](https://img.shields.io/badge/-English-B4B4B4?style=flat&logo=english)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=yarn)
+![SaaS](https://img.shields.io/badge/-SaaS-5D0F50?style=flat&logo=saa)
+![Kanban](https://img.shields.io/badge/-Kanban-C7B9C5?style=flat&logo=kanban)
+![Scrum](https://img.shields.io/badge/-Scrum-FFD700?style=flat&logo=scrum)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
