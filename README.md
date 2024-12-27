@@ -53,21 +53,21 @@
 
 <h4>Back-End:</h4>
 
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Supertest](https://img.shields.io/badge/-Supertest-333333?style=flat&logo=supertest)
 ![OWASP](https://img.shields.io/badge/-OWASP-333333?style=flat&logo=owasp)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-<h3>Outras mais:</h4>
+<h3>Outras Aptidões:</h4>
 
 ![TypeORM](https://img.shields.io/badge/TypeORM-333333.svg?style=flat&logo=typeorm)
+![NPM](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
+![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn)
 ![Clean Code](https://img.shields.io/badge/-Clean%20Code-333333?style=flat&logo=clean-code)
 ![English](https://img.shields.io/badge/-English-333333?style=flat&logo=english)
-![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
-![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn)
 ![SaaS](https://img.shields.io/badge/-SaaS-333333?style=flat&logo=saas)
 ![Kanban](https://img.shields.io/badge/-Kanban-333333?style=flat&logo=kanban)
 ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrum)
