@@ -45,11 +45,11 @@
 <h4>Front-End:</h4>
 
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![OWASP](https://img.shields.io/badge/-OWASP-333333?style=flat&logo=owasp)
-![UI Design](https://img.shields.io/badge/UI_Design-0ABDC5.svg?style=flat&logo=ui-design)
-
+![UI Design](https://img.shields.io/badge/UI%20Design-333333?style=flat&logo) 
+![UX Design](https://img.shields.io/badge/UX%20Design-333333?style=flat&logo=uxdesigner)
 
 <h4>Back-End:</h4>
 
@@ -59,18 +59,18 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Supertest](https://img.shields.io/badge/-Supertest-333333?style=flat&logo=supertest)
 ![OWASP](https://img.shields.io/badge/-OWASP-333333?style=flat&logo=owasp)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 <h3>Outras mais:</h4>
 
-![TypeORM](https://img.shields.io/badge/TypeORM-E8BD41.svg?style=flat&logo=TypeORM)
-![Clean Code](https://img.shields.io/badge/-Clean%20Code-F7D2C4?style=flat&logo=clean-code)
-![English](https://img.shields.io/badge/-English-B4B4B4?style=flat&logo=english)
-![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm)
-![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=yarn)
-![SaaS](https://img.shields.io/badge/-SaaS-5D0F50?style=flat&logo=saa)
-![Kanban](https://img.shields.io/badge/-Kanban-C7B9C5?style=flat&logo=kanban)
-![Scrum](https://img.shields.io/badge/-Scrum-FFD700?style=flat&logo=scrum)
+![TypeORM](https://img.shields.io/badge/TypeORM-333333.svg?style=flat&logo=typeorm)
+![Clean Code](https://img.shields.io/badge/-Clean%20Code-333333?style=flat&logo=clean-code)
+![English](https://img.shields.io/badge/-English-333333?style=flat&logo=english)
+![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
+![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn)
+![SaaS](https://img.shields.io/badge/-SaaS-333333?style=flat&logo=saas)
+![Kanban](https://img.shields.io/badge/-Kanban-333333?style=flat&logo=kanban)
+![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrum)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
