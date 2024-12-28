@@ -63,6 +63,7 @@
 
 <h3>Outras Aptidões:</h4>
 
+![Conventional Commits](https://img.shields.io/badge/-Conventional%20Commits-333333?style=flat&logo=conventionalcommits)
 ![TypeORM](https://img.shields.io/badge/TypeORM-333333.svg?style=flat&logo=typeorm)
 ![NPM](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
 ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn)
